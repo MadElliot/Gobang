@@ -1,0 +1,64 @@
+Initialize engine version: 5.6.5f1 (2cac56bf7bb6)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 645M (ID=0xfd9)
+    Vendor:   NVIDIA
+    VRAM:     1979 MB
+    Driver:   25.21.14.1735
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Unity3D Little Games\FivePoint\可执行程序\Test03_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Unity3D Little Games\FivePoint\可执行程序\Test03_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Unity3D Little Games\FivePoint\可执行程序\Test03_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Unity3D Little Games\FivePoint\可执行程序\Test03_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Unity3D Little Games\FivePoint\可执行程序\Test03_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Unity3D Little Games\FivePoint\可执行程序\Test03_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Unity3D Little Games\FivePoint\可执行程序\Test03_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Unity3D Little Games\FivePoint\可执行程序\Test03_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.022 seconds
+Platform assembly: F:\Unity3D Little Games\FivePoint\可执行程序\Test03_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Unity3D Little Games\FivePoint\可执行程序\Test03_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.615841 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.436213 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 329.
+Total: 0.338269 ms (FindLiveObjects: 0.037767 ms CreateObjectMapping: 0.025041 ms MarkObjects: 0.254112 ms  DeleteObjects: 0.020936 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.602675 ms
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 329.
+Total: 1.029176 ms (FindLiveObjects: 0.073893 ms CreateObjectMapping: 0.049262 ms MarkObjects: 0.717591 ms  DeleteObjects: 0.186376 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.712254 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 329.
+Total: 0.381374 ms (FindLiveObjects: 0.042283 ms CreateObjectMapping: 0.029147 ms MarkObjects: 0.286954 ms  DeleteObjects: 0.022578 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.494297 ms
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 329.
+Total: 0.638360 ms (FindLiveObjects: 0.034894 ms CreateObjectMapping: 0.038589 ms MarkObjects: 0.450752 ms  DeleteObjects: 0.113303 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.718001 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 362.
+Total: 0.419552 ms (FindLiveObjects: 0.042694 ms CreateObjectMapping: 0.028325 ms MarkObjects: 0.325132 ms  DeleteObjects: 0.022989 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.043545 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 348.
+Total: 0.737296 ms (FindLiveObjects: 0.041462 ms CreateObjectMapping: 0.038178 ms MarkObjects: 0.599771 ms  DeleteObjects: 0.057062 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: bd4 -> priority: 1 
+  Thread -> id: 10fc -> priority: 1 
